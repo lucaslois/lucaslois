@@ -6,7 +6,7 @@ I like to learn new tecnologies, methodologies and best practices to develop bet
 
 - 💻 Now, **I am working at Braintly**, a Software Boutique company based on Argentina where we make amazing software for diferent clients and startups.
 - 📖 I am currently **learning about architecture** and better ways to organize the code.
-- ⌨️ My principal tecnologies are **PHP (using Laravel), Javascript (React & Vue), NodeJS (Typescript, Express, TypeORM, Sequelize)**. Although I have done some projects working as frontender, I prefer to work in the backend.
+- ⌨️ My principal technologies are **PHP (using Laravel), Javascript (React & Vue), NodeJS (Typescript, Express, TypeORM, Sequelize)**. Although I have done some projects working as frontender, I prefer to work in the backend.
 - 📁 I've worked with Mysql and PostgresSQL, I want to research some about NoSQL like MongoDB but for now I haven't have the oportunity.
 - 🔎 I have **strongly knowledge in Object Oriented Programming**, applying principles like Design Patterns, SOLID and Unit Testing.
 - 🤓 **I like theory**. I love to discover the foundations behind the things so I try to read books, take courses, read a lot of articles and blog posts and see a lot of Youtube videos. (My last book read was "Clean Architecture" of Robert C. Martin).
