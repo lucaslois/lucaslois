@@ -2,7 +2,7 @@
 
 I'm a software developer currently living on Argentina 🇦🇷. I like to work mostly with web technologies such PHP and Javascript, but i can learn any other language that i need.
 
-I like to learn new tecnologies, metodologies and best practices to develop better software.
+I like to learn new tecnologies, methodologies and best practices to develop better software.
 
 - 💻 Now, **I am working at Braintly**, a Software Boutique based on Argentina where we make amazing software for diferent clients and startups.
 - 📖 I am currently **learning about architecture** and better ways to organize the code.
