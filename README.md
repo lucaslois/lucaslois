@@ -10,5 +10,5 @@ I like to learn new tecnologies, methodologies and best practices to develop bet
 - 📁 I've worked with MySQL and PostgresSQL and I also want to research about NoSQL like MongoDB but for now I haven't had the oportunity.
 - 🔎 I have **strong knowledge in Object Oriented Programming**, applying principles like Design Patterns, SOLID and Unit Testing.
 - 🤓 **I like theory**. I love to discover the foundations behind the things so I try to read books, take courses, read a lot of articles and blog posts and see a lot of Youtube videos. (My last book read was "Clean Architecture" of Robert C. Martin).
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Currently **I am learning english**, sorry if you see a lot of errors wrote on this text 😅
-- 🤪 **I like to build software ~~for stupid things~~ to solve problems**. Once i wanted to buy some sneakers and it was so expensive, so I programmed a web scrapper using Python to scan the page every day and send me an email when the script detects a discount. I saved 25% of money doing that 💸. 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Currently **I am learning english**, so sorry if you see a lot of errors written on this text 😅
+- 🤪 **I like building software ~~for stupid things~~ to solve problems**. For instance, once I wanted to buy a pair of sneakers and it was so expensive that I programmed a web scrapper using Python to scan the web-page every day and send me an email when the script detected a discount. I saved 25% of money doing that 💸. 
