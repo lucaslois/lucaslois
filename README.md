@@ -9,5 +9,5 @@ I like to learn new tecnologies, metodologies and best practices to develop bett
 - ⌨️ My principal tecnologies are **PHP (using Laravel), Javascript (React & Vue), NodeJS (Typescript, Express, TypeORM, Sequelize)**. Although i have done some projects working as frontender, I prefer to work in the backend.
 - 🔎 I have **strongly knowledge in Object Oriented Programming**, applying principles like Design Patterns, SOLID, Unit Testing.
 - 🤓 **I like theory**. I love to discover the foundations behind the things so I try to read books, take courses, read a lot of articles and blog post, and see a lot of Youtube videos. (My last book read was "Clean Architecture" of Robert C. Martin).
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Currently **I am learning english**, sorry if you see a lot of errors writing this text 😅
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Currently **I am learning english**, sorry if you see a lot of errors wrote on this text 😅
 - 🤪 **I like to build software ~~for stupid things~~ to solve problems**. Once i wanted to buy some sneakers and it was so expensive, so I programmed a web scrapper using Python to scan the page every day and send me an email when the script detects a discount. I saved 25% of money doing that 💸. 
