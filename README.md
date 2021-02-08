@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Lucky.
 
-I'm a software developer currently living on Argentina 🇦🇷. I like to work mostly with web technologies such PHP and Javascript, but i can learn any other language that i need.
+I'm a software developer currently living on Argentina 🇦🇷. I like to work mostly with web technologies such PHP and Javascript, but I can learn any other language that i need.
 
 I like to learn new tecnologies, methodologies and best practices to develop better software.
 
