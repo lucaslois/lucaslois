@@ -11,4 +11,4 @@ I like to learn new technologies, methodologies, and best practices to develop b
 * 🔎 I have **strong knowledge in Object-Oriented Programming**, applying principles like Design Patterns, SOLID and Unit Testing.
 * 🤓 **I like theory**. I love to discover the foundations behind things so I try to read books, take courses, read a lot of articles and blog posts and see a lot of Youtube videos. (My last book read was “Clean Architecture” by Robert C. Martin).
 * 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Currently, **I am learning English**, so sorry if you see a lot of errors written in this text 😅
-* 🤪 **I like building software ~~for stupid~~ things to solve problems**. For instance, once I wanted to buy a pair of sneakers and it was so expensive that I programm
+* 🤪 **I like building software ~~for stupid things~~ to solve problems**. For instance, once I wanted to buy a pair of sneakers and it was so expensive that I programm
